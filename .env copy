@@ -1,6 +1,6 @@
-VITE_REACT_APP_SERVER_API_DEV =http://localhost:5000/
-VITE_REACT_APP_BASE_URL_SERVER =http://localhost:5000/
-VITE_REACT_APP_GOOGLE_REDIRECT_URI=http://localhost:5000/auth/google/redirect
+VITE_REACT_APP_SERVER_API_DEV =http://ec2-3-126-248-167.eu-central-1.compute.amazonaws.com/
+VITE_REACT_APP_BASE_URL_SERVER =http://ec2-3-126-248-167.eu-central-1.compute.amazonaws.com/
+VITE_REACT_APP_GOOGLE_REDIRECT_URI=http://ec2-3-126-248-167.eu-central-1.compute.amazonaws.com/auth/google/redirect
 VITE_REACT_APP_GOOGLE_ROOT_URL=https://accounts.google.com/o/oauth2/v2/auth
 VITE_REACT_APP_GOOGLE_CLIENT_ID=922767752665-vnleaigg45gddmdb90rkbvq6r4ce9c6k.apps.googleusercontent.com
 VITE_REACT_APP_ACCESS_TOKEN_MAXAGE = 1
